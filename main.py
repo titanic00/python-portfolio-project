@@ -147,5 +147,3 @@ with open(r'C:\Users\Vitalik\Desktop\projects\python-portfolio-project\data\insu
 
     for item in data:
         variable_for_insurance_data.append(item)
-
-print(the_number_of_smokers_depending_on_age(variable_for_insurance_data))
